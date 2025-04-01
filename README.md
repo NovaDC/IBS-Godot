@@ -1,3 +1,7 @@
+Found this addon on a usb in a abandoned back alleyway behined a haunted Dennys covered in hyper realistic blood. I've since uploaded this to github for further research. I appears this addon enhances the editor using revolutionary visual effects. These effects are enabled when enabling the plugin, and can be reversed using a option in the tools menu. I've since filed a mising person report for the orignal maker of this addon.
+
+-------------------------------------------------------------------------------------------------------------------
+
 ok im maknig the gratset most revolutianery godot pulgin of all tiem i neeed a readme taht for to SELS it liek it nedes to make ppl feel liek their entir lif has been leeding up to dowloadng this addn. iso advancced it shoudl be illega.
 
 # **International Bumpscosity Systems (IBS) for godot**
